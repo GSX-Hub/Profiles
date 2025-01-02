@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "EPWA",
+    "Scenery": "Drzewiecki Design",
+    "Creator": "JBX Profiles",
+    "Version": "1.2.1",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "epwa-drzewiecki.ini"
+                },
+                {
+                    "FileName": "epwa-drzewiecki.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "Winter",
+            "Files": [
+                {
+                    "FileName": "epwa-drzewiecki-winter.ini"
+                },
+                {
+                    "FileName": "epwa-drzewiecki-winter.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": "1.2.1",
+            "ChangesURL": "",
+			"Date": "2025-01-02"
+        }
+    ]
+}
