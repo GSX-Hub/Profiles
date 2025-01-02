@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LKKV",
+    "Scenery": "Asobo (Default Airport)",
+    "Creator": "DarrianCZE",
+    "Version": 1.0,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lkkv-darriancze.ini"
+                },
+                {
+                    "FileName": "lkkv-darriancze.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.0,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/36",
+			"Date": "2023-08-15"
+        }
+    ]
+}

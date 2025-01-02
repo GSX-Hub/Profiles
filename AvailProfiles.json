@@ -32,6 +32,17 @@
         ]
     },
     {
+        "Folder": "LKKV (Asobo)",
+        "ProfileICAO": "LKKV",
+        "Scenery": "Asobo (Default Airport)",
+        "Creator": "DarrianCZE",
+        "Version": "1.0",
+        "FileNames": [
+            "lkkv-darriancze.py",
+            "lkkv-darriancze.ini"
+        ]
+    },
+    {
         "Folder": "EDDK (Aerosoft)",
         "ProfileICAO": "EDDK",
         "Scenery": "Aerosoft",
