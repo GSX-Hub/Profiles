@@ -1,0 +1,37 @@
+{
+    "ProfileICAO": "EGLC",
+    "Scenery": "UK2000",
+    "Creator": "Vee2",
+    "Version": 1.0,
+    "Configurations": [
+        {
+            "ConfigName": "For E190",
+            "Files": [
+                {
+                    "FileName": "eglc-uk2000-vee2.ini"
+                },
+                {
+                    "FileName": "eglc-uk2000-vee2.py"
+                }
+            ]
+        },
+        {
+            "ConfigName": "For RJ",
+            "Files": [
+                {
+                    "FileName": "eglc-uk2000-vee2-146.ini"
+                },
+                {
+                    "FileName": "eglc-uk2000-vee2-146.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 1.0,
+            "ChangesURL": "",
+			"Date": "2025-01-02"
+        }
+    ]
+}
