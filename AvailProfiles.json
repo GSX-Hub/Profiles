@@ -209,6 +209,17 @@
         ]
     },
     {
+        "Folder": "LKTB (Aerosoft)",
+        "ProfileICAO": "LKTB",
+        "Scenery": "Aerosoft",
+        "Creator": "DarrianCZE",
+        "Version": "3.0",
+        "FileNames": [
+            "lktb-darriancze.ini",
+            "lktb-darriancze.py"
+        ]
+    },
+    {
         "Folder": "LPHR (M'M Simulations)",
         "ProfileICAO": "LPHR",
         "Scenery": "M'M Simulations",

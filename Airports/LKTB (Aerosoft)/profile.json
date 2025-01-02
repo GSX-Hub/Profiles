@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LKTB",
+    "Scenery": "Aerosoft",
+    "Creator": "DarrianCZE",
+    "Version": 3.0,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lktb-darriancze.ini"
+                },
+                {
+                    "FileName": "lktb-darriancze.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 3.0,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/34",
+			"Date": "2023-09-29"
+        }
+    ]
+}
