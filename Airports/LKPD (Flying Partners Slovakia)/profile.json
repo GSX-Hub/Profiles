@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LKPD",
+    "Scenery": "Flying Partners Slovakia",
+    "Creator": "DarrianCZE",
+    "Version": 1.2,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lkpd-darriancze.ini"
+                },
+                {
+                    "FileName": "lkpd-darriancze.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.2,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/37",
+			"Date": "2023-10-28"
+        }
+    ]
+}

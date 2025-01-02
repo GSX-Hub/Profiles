@@ -32,6 +32,17 @@
         ]
     },
     {
+        "Folder": "LKPD (Flying Partners Slovakia)",
+        "ProfileICAO": "LKPD",
+        "Scenery": "Flying Partners Slovakia",
+        "Creator": "DarrianCZE",
+        "Version": "1.2",
+        "FileNames": [
+            "lkpd-darriancze.py",
+            "lkpd-darriancze.ini"
+        ]
+    },
+    {
         "Folder": "EDDK (Aerosoft)",
         "ProfileICAO": "EDDK",
         "Scenery": "Aerosoft",
