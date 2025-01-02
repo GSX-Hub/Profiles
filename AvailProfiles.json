@@ -110,6 +110,18 @@
         ]
     },
     {
+        "Folder": "LKPR (Tailstrike Designs)",
+        "ProfileICAO": "LKPR",
+        "Scenery": "Tailstrike Designs",
+        "Creator": "DarrianCZE",
+        "Version": "11.0",
+        "FileNames": [
+            "lkpr-darriancze-gsxvdgs.ini",
+            "lkpr-darriancze-asvdgs.ini",
+            "lkpr-darriancze.py"
+        ]
+    },
+    {
         "Folder": "EBLG (M'M Simulations)",
         "ProfileICAO": "EBLG",
         "Scenery": "M'M Simulations",
