@@ -220,6 +220,17 @@
         ]
     },
     {
+        "Folder": "LKMT (Flying Partners Slovakia)",
+        "ProfileICAO": "LKMT",
+        "Scenery": "Flying Partners Slovakia",
+        "Creator": "DarrianCZE",
+        "Version": "1.0",
+        "FileNames": [
+            "lkmt-fps-darriancze.py",
+            "lkmt-fps-darriancze.ini"
+        ]
+    },
+    {
         "Folder": "ESMX (Flightsim.to)",
         "ProfileICAO": "ESMX",
         "Scenery": "Flightsim.to",

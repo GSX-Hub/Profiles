@@ -1,0 +1,26 @@
+{
+    "ProfileICAO": "LKMT",
+    "Scenery": "Flying Partners Slovakia",
+    "Creator": "DarrianCZE",
+    "Version": 1.0,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "lkmt-fps-darriancze.ini"
+                },
+                {
+                    "FileName": "lkmt-fps-darriancze.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": 1.0,
+            "ChangesURL": "https://github.com/Hinshee/GSX-Profiles/pull/13",
+			"Date": "2024-07-19"
+        }
+    ]
+}
