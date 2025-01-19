@@ -181,7 +181,7 @@
         "ProfileICAO": "LKPR",
         "Scenery": "Tailstrike Designs",
         "Creator": "DarrianCZE",
-        "Version": "11.0",
+        "Version": "12.0",
         "FileNames": [
             "lkpr-darriancze-gsxvdgs.ini",
             "lkpr-darriancze-asvdgs.ini",
@@ -369,7 +369,7 @@
         "ProfileICAO": "LKKV",
         "Scenery": "Asobo (Default Airport)",
         "Creator": "DarrianCZE",
-        "Version": "1.1",
+        "Version": "2.0",
         "FileNames": [
             "lkkv-darriancze.py",
             "lkkv-darriancze.ini"
