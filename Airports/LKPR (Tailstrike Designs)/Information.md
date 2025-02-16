@@ -1,5 +1,10 @@
 <!--- Licensed Under: CC BY-NC 4.0 --->
 Available from these retailers: [Aerosoft.com](https://www.aerosoft.com/en/shop/flight/microsoft-flight-simulator/msfs-2020/msfs-sceneries/msfs-europe/3408/tailstrike-designs-airport-prague?number=AS15349)
+
+**IMPORANT**
+**If you are choosing the GSX VDGS version, you need to disable the AS VDGS in the scenery, because it will not look good if you will not.**  
+Rename the file "Community\Tailstrike Prague\tailstrikedesigns-airport-lkpr-prague\scenery\LKPR_VDGS\scenery\LKPR_aerosoft_VDGS_modellib.BGL" to "LKPR_aerosoft_VDGS_modellib.BGL.off"
+
 ## Features:
 - Custom vehicle placement on all stands
 - Custom pushback routes

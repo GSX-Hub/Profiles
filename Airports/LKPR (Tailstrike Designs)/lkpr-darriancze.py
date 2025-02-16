@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 msfs_mode = 1
 icao = "lkpr"
-version = 12.1
+version = 13.0
 
 Terminal1 = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§",1)
 Terminal1JetwayINOP = CustomizedName("Terminal 1 (1 - 16) (Non-Schengen) | Gate #§ (Jetway INOP)",1)
