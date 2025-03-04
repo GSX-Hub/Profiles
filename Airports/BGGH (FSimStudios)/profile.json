@@ -1,0 +1,33 @@
+{
+    "ProfileICAO": "BGGH",
+    "Scenery": "FSimStudios",
+    "Creator": "JBX Profiles",
+    "Version": "1.0.1",
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "bggh-fss.ini"
+                },
+                {
+                    "FileName": "bggh-fss.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+		{
+            "Version": "1.0.1",
+            "ChangesURL": "",
+            "ChangesMd": "- Slightly adjusted walk-in path at stand 2 to prevent pax from clipping into the stairs\n- Changed pushback trucks to towbar only ",
+			"Date": "2025-03-02"
+        },
+        {
+            "Version": 1,
+            "ChangesURL": "",
+		    "ChangesMd": "* Initial release",
+			"Date": "2025-03-01"
+        }
+    ]
+}
