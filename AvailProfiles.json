@@ -296,6 +296,17 @@
         ]
     },
     {
+        "Folder": "EPSC (Papa Delta Studio)",
+        "ProfileICAO": "EPSC",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epsc-papadelta.py",
+            "epsc-papadelta.ini"
+        ]
+    },
+    {
         "Folder": "EDDM (Simwings)",
         "ProfileICAO": "EDDM",
         "Scenery": "Aerosoft (Simwings)",
