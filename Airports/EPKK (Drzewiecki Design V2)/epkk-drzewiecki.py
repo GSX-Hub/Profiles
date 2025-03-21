@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 # Scenery = Drzewiecki Design - EPKK Kraków
 
-version = "1.0.0"
+version = "1.1.0"
 msfs_mode = 1
 icao = "epkk"
 
