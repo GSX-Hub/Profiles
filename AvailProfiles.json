@@ -107,7 +107,6 @@
         "Creator": "SimonTricks, James Robinson, JBX Profiles",
         "Version": "2.0.0",
         "FileNames": [
-            "eidw-mkstudiosv2-gsxvdgs-simontricks.ini",
             "eidw-mks.py",
             "eidw-mks-noolvdgs.ini",
             "eidw-mks-gsxvdgs.ini"
@@ -435,7 +434,6 @@
         "Creator": "SimonTricks, Tom",
         "Version": "1.4",
         "FileNames": [
-            "eddk-aerosoft-gsxvdgs-simontricks.ini",
             "EDDK-Aerosoft-ASVDGS.ini",
             "EDDK-Aerosoft-GSXVDGS.ini",
             "EDDK-Aerosoft.py"
