@@ -2,7 +2,7 @@
     "ProfileICAO": "LKPR",
     "Scenery": "Tailstrike Designs",
     "Creator": "DarrianCZE",
-    "Version": 13.1,
+    "Version": 13.2,
     "Configurations": [
         {
             "ConfigName": "GSX-VDGS",
@@ -28,6 +28,11 @@
         }
     ],
     "Changelog": [
+        {
+            "Version": 13.2,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/93",
+			"Date": "2025-05-20"
+        },
         {
             "Version": 13.1,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/62",
