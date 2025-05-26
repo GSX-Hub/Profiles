@@ -1,0 +1,38 @@
+{
+    "ProfileICAO": "EDDB",
+    "Scenery": "Aerosoft/Limesim V3",
+    "Creator": "CuzImTom",
+    "Version": 1.0,
+    "Configurations": [
+        {
+            "ConfigName": "GSX",
+            "Files": [
+                {
+                    "FileName": "EDDB-Aerosoft-GSX.ini"
+                },
+                {
+                    "FileName": "EDDB-Aerosoft.py"
+                }
+            ]
+        },
+         {
+            "ConfigName": "ASVDGS",
+            "Files": [
+                {
+                    "FileName": "EDDB-Aerosoft-ASVDGS.ini"
+                },
+                {
+                    "FileName": "EDDB-Aerosoft.py"
+                }
+            ]
+        }
+    ],
+    "Changelog": [
+        {
+            "Version": 1.0,
+            "ChangesURL": "",
+		"ChangesMd": "* Initial release",
+			"Date": "2025-05-26"
+        }
+    ]
+}

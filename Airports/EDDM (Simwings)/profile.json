@@ -1,7 +1,7 @@
 {
     "ProfileICAO": "EDDM",
     "Scenery": "Aerosoft (Simwings)",
-    "Creator": "SimonTricks, Tom",
+    "Creator": "SimonTricks, CuzImTom",
     "Version": 4.2,
     "Configurations": [
         {
@@ -29,15 +29,16 @@
     ],
     "Changelog": [
         {
-            "Version": 4.1,
-            "ChangesURL": "",
-            "Date": "2024-11-14"
-        },
-		{
             "Version": 4.2,
             "ChangesURL": "",
 			"ChangesMd": "* Disabled Wingwalkers on most positions\n* Custom Engine Start points in Pushback for most Aprons (Red Line)\n* Small changes and corrections\n###### Update to A380 Compatability\n* Gates 113X (Apron 1 East) and 318 (Apron 3 Satelite) created via gsx that are only recommended to use with the A380. You may find them at the very end of the gate lists",
             "Date": "2025-02-22"
+        },
+		{
+            "Version": 4.1,
+            "ChangesURL": "",
+            "Date": "2024-11-14"
         }
     ]
 }
+
