@@ -2,7 +2,7 @@
     "ProfileICAO": "EDDB",
     "Scenery": "Aerosoft/Limesim V3",
     "Creator": "CuzImTom",
-    "Version": 1.1,
+    "Version": "1.1.1",
     "Configurations": [
         {
             "ConfigName": "GSX",
@@ -29,9 +29,15 @@
     ],
     "Changelog": [
         {
+            "Version": "1.1.1",
+            "ChangesURL": "",
+		"ChangesMd": "Added the following Pushback Options:\n- Pushback onto P2 Orange\n- Straight Pushbacks on A and C Apron\n- Pushback onto V2 for C01-03\n- Pushback onto VC for A01-02\n- Disabled Pushback Truck on Taxi-Out Stands",
+			"Date": "2025-07-31"
+        },
+        {
             "Version": 1.1,
             "ChangesURL": "",
-		"ChangesMd": "* added Apron E with custom Vehicle Placements and Pushback Options, including correctly configured taxi-out stands\n *changed some Vehicle Placements\n *renamed Deicing Areas and added missing Pads",
+		"ChangesMd": "- added Apron E with custom Vehicle Placements and Pushback Options, including correctly configured taxi-out stands\n- changed some Vehicle Placements\n- renamed Deicing Areas and added missing Pads",
 			"Date": "2025-07-26"
         },
         {

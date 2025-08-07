@@ -2,7 +2,7 @@
 
 msfs_mode = 1
 icao = "eddb"
-version = 1.1
+version = "1.1.1"
 
 def HandleAircraftOffsets(aircraftData, specificTables, genericTable):
     major_id = aircraftData.idMajor
@@ -214,7 +214,7 @@ def MyCustomOffsetsC3(aircraftData):
         0: 0,
         318: -1.5,
         319: -1.5,
-        321: 1.9,
+        321: 1.5,
         717: 1.9,
         87: 1.9,
 
