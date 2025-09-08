@@ -40,8 +40,10 @@ def get_airports():
     if os.path.exists(avail_profiles_path):
         with open(avail_profiles_path, "r") as f:
             data = json.load(f)
+        logging.info(f"Loaded {len(data)} existing profiles from AvailProfiles.json")
     else:
         data = []
+        logging.info("AvailProfiles.json not found, starting with empty list")
 
     # Create a mapping of existing profiles by folder name for quick lookup
     existing_profiles = {profile["Folder"]: profile for profile in data}
@@ -53,7 +55,8 @@ def get_airports():
     changes_made = False
 
     # Process each airport directory
-    for root, dirs, _ in os.walk(airports_dir):
+    logging.info(f"Scanning {airports_dir} for airport profiles...")
+    for root, dirs, files in os.walk(airports_dir):
         for dir_name in dirs:
             profile_path = os.path.join(root, dir_name)
             profile_json_path = os.path.join(profile_path, "profile.json")

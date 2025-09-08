@@ -21,6 +21,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: ${{ github.head_ref }}
+          fetch-depth: 0  # Ensure we get the full history
 
       - name: Set up Python
         uses: actions/setup-python@v5.3.0
@@ -29,6 +30,20 @@ jobs:
 
       - name: Install dependencies
         run: pip install jq
+
+      - name: Debug environment
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Repository contents:"
+          ls -la
+          echo "Airports directory contents:"
+          ls -la Airports/ || echo "Airports directory not found"
+          echo "AvailProfiles.json exists:"
+          ls -la AvailProfiles.json || echo "AvailProfiles.json not found"
+          echo "Git status:"
+          git status
+          echo "Changed files in this PR:"
+          git diff --name-only HEAD~1 HEAD || echo "No changes detected"
 
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
