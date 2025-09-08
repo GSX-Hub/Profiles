@@ -1,5 +1,4 @@
 name: JSON Validator
-description: Validate JSON files in the repository and block PRs with invalid JSON
 
 on:
   pull_request:
