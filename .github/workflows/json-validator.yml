@@ -1,12 +1,12 @@
 name: JSON Validator
-description: Validate JSON files in the Airports folder and comment on PRs with the diff
+description: Validate JSON files in the repository and block PRs with invalid JSON
+
 on:
-  push:
+  pull_request:
     branches:
       - main
-  pull_request:
     paths:
-      - 'Airports/**/*.json' # Trigger only for JSON files in the Airports folder
+      - '**/*.json' # Trigger for any JSON files in the repository
   workflow_dispatch:
 
 permissions:
@@ -14,8 +14,9 @@ permissions:
   pull-requests: write # enable write permissions for pull request comments
 
 jobs:
-  json-yaml-validate:
+  json-validate:
     runs-on: ubuntu-latest
+    name: Validate JSON Files
     steps:
       # Checkout the repo
       - uses: actions/checkout@v4
@@ -37,3 +38,12 @@ jobs:
           comment: "true" # enable comment mode
           base_dir: ./ # Base directory for validation
           files: ${{ steps.git-diff-action.outputs.json-diff-path }} # Validate only changed files
+          
+      # Explicit success message when no JSON files changed
+      - name: No JSON files to validate
+        if: ${{ steps.git-diff-action.outputs.json-diff-path == '' }}
+        run: echo "✅ No JSON files were modified in this PR"
+        
+      # Final validation status
+      - name: JSON Validation Complete
+        run: echo "✅ All JSON files are valid"

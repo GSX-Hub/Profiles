@@ -1,9 +1,11 @@
 name: Update AvailProfiles
 
 on:
-  push:
+  pull_request:
     branches:
       - main
+    paths:
+      - 'Airports/**'
 
 permissions:
   contents: write
@@ -16,6 +18,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
 
       - name: Set up Python
         uses: actions/setup-python@v5.3.0
@@ -28,16 +33,20 @@ jobs:
       - name: Update AvailProfiles.json
         run: python .github/scripts/update_availprofiles.py
 
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Update AvailProfiles.json
-          title: Update Available Profiles
-          body: |
-            This PR updates the AvailProfiles.json file.
-          branch: availprofiles
-          base: main
-          reviewers: hinshee
-          assignees: hinshee
-          labels: auto-update
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet AvailProfiles.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add AvailProfiles.json
+          git commit -m "Auto-update AvailProfiles.json"
+          git push
