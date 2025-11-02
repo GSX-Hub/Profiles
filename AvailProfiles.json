@@ -252,8 +252,9 @@
         "Creator": "DarrianCZE",
         "Version": "13.2",
         "FileNames": [
-            "lkpr-darriancze-gsxvdgs.ini",
             "lkpr-darriancze-asvdgs.ini",
+            "lkpr-darriancze-gsxvdgs-lkprlive.ini",
+            "lkpr-darriancze-gsxvdgs.ini",
             "lkpr-darriancze.py"
         ]
     },
