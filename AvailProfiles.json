@@ -1,48 +1,5 @@
 [
     {
-        "Folder": "YMML (ORBX)",
-        "ProfileICAO": "YMML",
-        "Scenery": "ORBX ",
-        "Creator": "tcastest",
-        "Version": "1.1",
-        "FileNames": [
-            "ymml-AusFS.ini",
-            "ymml-AusFS.py"
-        ]
-    },
-    {
-        "Folder": "BKPR (M'M Simulations)",
-        "ProfileICAO": "BKPR",
-        "Scenery": "M'M Simulations",
-        "Creator": "Hinshee",
-        "Version": "1.1",
-        "FileNames": [
-            "bkpr-yeurxn.ini"
-        ]
-    },
-    {
-        "Folder": "LIRF (MK Studios)",
-        "ProfileICAO": "LIRF",
-        "Scenery": "MKStudios",
-        "Creator": "SimonTricks",
-        "Version": "1.2.2",
-        "FileNames": [
-            "lirf-MkStudio-GSXVDGS.ini",
-            "lirf-MkStudio-NoolVDGS.ini",
-            "lirf-MkStudio.py"
-        ]
-    },
-    {
-        "Folder": "EFTU (M'M Simulations)",
-        "ProfileICAO": "EFTU",
-        "Scenery": "M'M Simulations",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "eftu-mmsimulations-hinshee.ini"
-        ]
-    },
-    {
         "Folder": "LPHR (M'M Simulations)",
         "ProfileICAO": "LPHR",
         "Scenery": "M'M Simulations",
@@ -54,47 +11,14 @@
         ]
     },
     {
-        "Folder": "LEMH (Simwings)",
-        "ProfileICAO": "LEMH",
-        "Scenery": "Simwings",
+        "Folder": "LPFR (Asobo)",
+        "ProfileICAO": "LPFR",
+        "Scenery": "Asobo",
         "Creator": "SimonTricks",
-        "Version": "1.4",
+        "Version": "1.3.1",
         "FileNames": [
-            "lemh-ASVDGS.ini",
-            "lemh-GSXVDGS.ini"
-        ]
-    },
-    {
-        "Folder": "EPKK (Papa Delta Studio)",
-        "ProfileICAO": "EPKK",
-        "Scenery": "Papa Delta Studio",
-        "Creator": "Papa Delta Studio",
-        "Version": "0.9",
-        "FileNames": [
-            "epkk-papadelta.ini",
-            "epkk-papadelta.py"
-        ]
-    },
-    {
-        "Folder": "LEMD (LVFR)",
-        "ProfileICAO": "LEMD",
-        "Scenery": "LVFR",
-        "Creator": "SimonTricks",
-        "Version": "1.0",
-        "FileNames": [
-            "lemd-LVFR.py",
-            "lemd-LVFR.ini"
-        ]
-    },
-    {
-        "Folder": "YSSY (FlyTampa)",
-        "ProfileICAO": "YSSY",
-        "Scenery": "FlyTampa",
-        "Creator": "tcastest",
-        "Version": "1.2.0",
-        "FileNames": [
-            "yssy-AusFS.ini",
-            "yssy-AusFS.py"
+            "lpfr-Asobo.ini",
+            "lpfr-Asobo.py"
         ]
     },
     {
@@ -110,94 +34,14 @@
         ]
     },
     {
-        "Folder": "EGPH (Pyreegue v2)",
-        "ProfileICAO": "EGPH",
-        "Scenery": "Pyreegue (v2)",
+        "Folder": "ENTC (M'M Simulations)",
+        "ProfileICAO": "ENTC",
+        "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
-        "Version": "1.1",
+        "Version": "1.2",
         "FileNames": [
-            "egph-pyreegue-hinshee.ini",
-            "egph-pyreegue-hinshee.py"
-        ]
-    },
-    {
-        "Folder": "LEBB (BMW)",
-        "ProfileICAO": "LEBB",
-        "Scenery": "Beautiful Model World",
-        "Creator": "CopperNu",
-        "Version": "5.1",
-        "FileNames": [
-            "LEBB-BMW-coppernu.ini"
-        ]
-    },
-    {
-        "Folder": "YBBN (ORBX)",
-        "ProfileICAO": "YBBN",
-        "Scenery": "ORBX",
-        "Creator": "tcastest",
-        "Version": "1.3.0",
-        "FileNames": [
-            "ybbn-AusFS.ini",
-            "ybbn-AusFS.py"
-        ]
-    },
-    {
-        "Folder": "LPFR (Asobo)",
-        "ProfileICAO": "LPFR",
-        "Scenery": "Asobo",
-        "Creator": "SimonTricks",
-        "Version": "1.3.1",
-        "FileNames": [
-            "lpfr-Asobo.ini",
-            "lpfr-Asobo.py"
-        ]
-    },
-    {
-        "Folder": "EIDW (MK Studios v2)",
-        "ProfileICAO": "EIDW",
-        "Scenery": "MK Studios v2",
-        "Creator": "SimonTricks, James Robinson, JBX Profiles",
-        "Version": "2.0.0",
-        "FileNames": [
-            "eidw-mks.py",
-            "eidw-mks-noolvdgs.ini",
-            "eidw-mks-gsxvdgs.ini"
-        ]
-    },
-    {
-        "Folder": "EPSC (Papa Delta Studio)",
-        "ProfileICAO": "EPSC",
-        "Scenery": "Papa Delta Studio",
-        "Creator": "Papa Delta Studio",
-        "Version": "0.9",
-        "FileNames": [
-            "epsc-papadelta.py",
-            "epsc-papadelta.ini"
-        ]
-    },
-    {
-        "Folder": "EDDF (Aerosoft)",
-        "ProfileICAO": "EDDF",
-        "Scenery": "Aerosoft",
-        "Creator": "Jk23",
-        "Version": "1.5",
-        "FileNames": [
-            "eddf-aerosoft-ASVDGS-full-jk23.ini",
-            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
-            "eddf-aerosoft-full-jk23.ini",
-            "eddf-aerosoft-lite-jk23.ini",
-            "eddf-aerosoft.py"
-        ]
-    },
-    {
-        "Folder": "LKPD (Flying Partners Slovakia)",
-        "ProfileICAO": "LKPD",
-        "Scenery": "Flying Partners Slovakia",
-        "Creator": "DarrianCZE",
-        "Version": "1.3",
-        "FileNames": [
-            "lkpd-darriancze.py",
-            "lkpd-darriancze.ini"
+            "entc-mmsimulations-hinshee.ini",
+            "entc-mmsimulations-hinshee.py"
         ]
     },
     {
@@ -212,14 +56,14 @@
         ]
     },
     {
-        "Folder": "BGGH (FSimStudios)",
-        "ProfileICAO": "BGGH",
-        "Scenery": "FSimStudios",
-        "Creator": "JBX Profiles",
-        "Version": "1.0.1",
+        "Folder": "LEMH (Simwings)",
+        "ProfileICAO": "LEMH",
+        "Scenery": "Simwings",
+        "Creator": "SimonTricks",
+        "Version": "1.4",
         "FileNames": [
-            "bggh-fss.py",
-            "bggh-fss.ini"
+            "lemh-ASVDGS.ini",
+            "lemh-GSXVDGS.ini"
         ]
     },
     {
@@ -234,57 +78,80 @@
         ]
     },
     {
-        "Folder": "EDDK (Aerosoft)",
-        "ProfileICAO": "EDDK",
+        "Folder": "BGGH (FSimStudios)",
+        "ProfileICAO": "BGGH",
+        "Scenery": "FSimStudios",
+        "Creator": "JBX Profiles",
+        "Version": "1.0.1",
+        "FileNames": [
+            "bggh-fss.py",
+            "bggh-fss.ini"
+        ]
+    },
+    {
+        "Folder": "EDDG (M'M Simulations)",
+        "ProfileICAO": "EDDG",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": "1",
+        "FileNames": [
+            "eddg-mmsimulations-hinshee.ini",
+            "eddg-mmsimulations-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "EBLG (M'M Simulations)",
+        "ProfileICAO": "EBLG",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": "1",
+        "FileNames": [
+            "eblg-mmsimulations-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "EGNX (Pyreegue)",
+        "ProfileICAO": "EGNX",
+        "Scenery": "Pyreegue",
+        "Creator": "Hinshee",
+        "Version": "1.6",
+        "FileNames": [
+            "egnx-pyreegue-hinshee.ini",
+            "egnx-pyreegue-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "YSSY (FlyTampa)",
+        "ProfileICAO": "YSSY",
+        "Scenery": "FlyTampa",
+        "Creator": "tcastest",
+        "Version": "1.2.0",
+        "FileNames": [
+            "yssy-AusFS.ini",
+            "yssy-AusFS.py"
+        ]
+    },
+    {
+        "Folder": "LKTB (Aerosoft)",
+        "ProfileICAO": "LKTB",
         "Scenery": "Aerosoft",
-        "Creator": "SimonTricks, CuzImTom",
-        "Version": "1.4",
-        "FileNames": [
-            "EDDK-Aerosoft-ASVDGS.ini",
-            "EDDK-Aerosoft-GSXVDGS.ini",
-            "EDDK-Aerosoft.py"
-        ]
-    },
-    {
-        "Folder": "LGSK (Orbx)",
-        "ProfileICAO": "LGSK",
-        "Scenery": "Orbx",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "lgsk-orbx-hinshee.ini"
-        ]
-    },
-    {
-        "Folder": "LIPK (AmSim)",
-        "ProfileICAO": "LIPK",
-        "Scenery": "AmSim",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "lipk-amsim-hinshee.ini"
-        ]
-    },
-    {
-        "Folder": "LKMT (Flying Partners Slovakia)",
-        "ProfileICAO": "LKMT",
-        "Scenery": "Flying Partners Slovakia",
         "Creator": "DarrianCZE",
-        "Version": "1.2",
+        "Version": "3.3",
         "FileNames": [
-            "lkmt-fps-darriancze.py",
-            "lkmt-fps-darriancze.ini"
+            "lktb-darriancze.ini",
+            "lktb-darriancze.py"
         ]
     },
     {
-        "Folder": "EDDW (BMW)",
-        "ProfileICAO": "EDDW",
-        "Scenery": "Beautiful Model World",
-        "Creator": "CopperNu",
-        "Version": "1.2",
+        "Folder": "EIDW (MK Studios v2)",
+        "ProfileICAO": "EIDW",
+        "Scenery": "MK Studios v2",
+        "Creator": "SimonTricks, James Robinson, JBX Profiles",
+        "Version": "2.0.0",
         "FileNames": [
-            "EDDW-BMW-coppernu.ini",
-            "EDDW-BMW-coppernu.py"
+            "eidw-mks.py",
+            "eidw-mks-noolvdgs.ini",
+            "eidw-mks-gsxvdgs.ini"
         ]
     },
     {
@@ -301,15 +168,59 @@
         ]
     },
     {
+        "Folder": "YMML (ORBX)",
+        "ProfileICAO": "YMML",
+        "Scenery": "ORBX ",
+        "Creator": "tcastest",
+        "Version": "1.1",
+        "FileNames": [
+            "ymml-AusFS.ini",
+            "ymml-AusFS.py"
+        ]
+    },
+    {
+        "Folder": "LEMD (LVFR)",
+        "ProfileICAO": "LEMD",
+        "Scenery": "LVFR",
+        "Creator": "SimonTricks",
+        "Version": "1.0",
+        "FileNames": [
+            "lemd-LVFR.py",
+            "lemd-LVFR.ini"
+        ]
+    },
+    {
         "Folder": "EDDB (Limesim V3)",
         "ProfileICAO": "EDDB",
         "Scenery": "Aerosoft/Limesim V3",
         "Creator": "CuzImTom",
-        "Version": "1.1",
+        "Version": "1.2",
         "FileNames": [
             "EDDB-Aerosoft.py",
             "EDDB-Aerosoft-ASVDGS.ini",
             "EDDB-Aerosoft-GSX.ini"
+        ]
+    },
+    {
+        "Folder": "EDDW (BMW)",
+        "ProfileICAO": "EDDW",
+        "Scenery": "Beautiful Model World",
+        "Creator": "CopperNu",
+        "Version": "1.2",
+        "FileNames": [
+            "EDDW-BMW-coppernu.ini",
+            "EDDW-BMW-coppernu.py"
+        ]
+    },
+    {
+        "Folder": "LKMT (Flying Partners Slovakia)",
+        "ProfileICAO": "LKMT",
+        "Scenery": "Flying Partners Slovakia",
+        "Creator": "DarrianCZE",
+        "Version": "1.2",
+        "FileNames": [
+            "lkmt-fps-darriancze.py",
+            "lkmt-fps-darriancze.ini"
         ]
     },
     {
@@ -325,60 +236,58 @@
         ]
     },
     {
-        "Folder": "EPWA (Drzewiecki Design)",
-        "ProfileICAO": "EPWA",
-        "Scenery": "Drzewiecki Design",
-        "Creator": "JBX Profiles",
-        "Version": "1.2.1",
-        "FileNames": [
-            "epwa-drzewiecki-winter.py",
-            "epwa-drzewiecki.py",
-            "epwa-drzewiecki-winter.ini",
-            "epwa-drzewiecki.ini"
-        ]
-    },
-    {
-        "Folder": "EFOU (M'M Simulations)",
-        "ProfileICAO": "EFOU",
+        "Folder": "EFTU (M'M Simulations)",
+        "ProfileICAO": "EFTU",
         "Scenery": "M'M Simulations",
         "Creator": "Hinshee",
         "Version": "1",
         "FileNames": [
-            "efou-mmsimulations-hinshee.ini",
-            "efou-mmsimulations-hinshee.py"
+            "eftu-mmsimulations-hinshee.ini"
         ]
     },
     {
-        "Folder": "ENTC (M'M Simulations)",
-        "ProfileICAO": "ENTC",
-        "Scenery": "M'M Simulations",
+        "Folder": "LKPR (Tailstrike Designs)",
+        "ProfileICAO": "LKPR",
+        "Scenery": "Tailstrike Designs",
+        "Creator": "DarrianCZE",
+        "Version": "13.2",
+        "FileNames": [
+            "lkpr-darriancze-gsxvdgs.ini",
+            "lkpr-darriancze-asvdgs.ini",
+            "lkpr-darriancze.py"
+        ]
+    },
+    {
+        "Folder": "EPSC (Papa Delta Studio)",
+        "ProfileICAO": "EPSC",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epsc-papadelta.py",
+            "epsc-papadelta.ini"
+        ]
+    },
+    {
+        "Folder": "LPPT (MK Studios v2)",
+        "ProfileICAO": "LPPT",
+        "Scenery": "MK Studios v2",
+        "Creator": "Luca, Tom",
+        "Version": "1.2.0",
+        "FileNames": [
+            "LPPT-MKStudios.ini",
+            "LPPT-MKStudios-NOOL.ini",
+            "LPPT-MKStudios.py"
+        ]
+    },
+    {
+        "Folder": "EFET (Tatu)",
+        "ProfileICAO": "EFET",
+        "Scenery": "Tatu",
         "Creator": "Hinshee",
-        "Version": "1.2",
+        "Version": "1.0",
         "FileNames": [
-            "entc-mmsimulations-hinshee.ini",
-            "entc-mmsimulations-hinshee.py"
-        ]
-    },
-    {
-        "Folder": "LEPA (EuroScene)",
-        "ProfileICAO": "LEPA",
-        "Scenery": "EuroScene",
-        "Creator": "Vee2",
-        "Version": "1.5",
-        "FileNames": [
-            "lepa-euroscene-vee2.ini",
-            "lepa-euroscene-vee2.py"
-        ]
-    },
-    {
-        "Folder": "EDDG (M'M Simulations)",
-        "ProfileICAO": "EDDG",
-        "Scenery": "M'M Simulations",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "eddg-mmsimulations-hinshee.ini",
-            "eddg-mmsimulations-hinshee.py"
+            "efet-tatu-hinshee.ini"
         ]
     },
     {
@@ -392,61 +301,38 @@
         ]
     },
     {
-        "Folder": "EBLG (M'M Simulations)",
-        "ProfileICAO": "EBLG",
-        "Scenery": "M'M Simulations",
-        "Creator": "Hinshee",
-        "Version": "1",
-        "FileNames": [
-            "eblg-mmsimulations-hinshee.ini"
-        ]
-    },
-    {
-        "Folder": "EGLC (UK2000)",
-        "ProfileICAO": "EGLC",
-        "Scenery": "UK2000",
-        "Creator": "Vee2",
-        "Version": "1.0",
-        "FileNames": [
-            "eglc-uk2000-vee2-146.ini",
-            "eglc-uk2000-vee2.py",
-            "eglc-uk2000-vee2-146.py",
-            "eglc-uk2000-vee2.ini"
-        ]
-    },
-    {
-        "Folder": "KJAC (DreamFlight)",
-        "ProfileICAO": "KJAC",
-        "Scenery": "Dreamflight",
-        "Creator": "Hinshee",
-        "Version": "1.1",
-        "FileNames": [
-            "kjac-dreamflight-hinshee.ini",
-            "kjac-dreamflight-hinshee.py"
-        ]
-    },
-    {
-        "Folder": "ENGM (Aerosoft)",
-        "ProfileICAO": "ENGM",
+        "Folder": "EDDK (Aerosoft)",
+        "ProfileICAO": "EDDK",
         "Scenery": "Aerosoft",
-        "Creator": "JBX Profiles",
-        "Version": "1.5.1",
+        "Creator": "SimonTricks, CuzImTom",
+        "Version": "1.4",
         "FileNames": [
-            "engm-aerosoft.py",
-            "engm-aerosoft-asvdgs.ini",
-            "engm-aerosoft-gsxvdgs.ini"
+            "EDDK-Aerosoft-ASVDGS.ini",
+            "EDDK-Aerosoft-GSXVDGS.ini",
+            "EDDK-Aerosoft.py"
         ]
     },
     {
-        "Folder": "LPPT (MK Studios v2)",
-        "ProfileICAO": "LPPT",
-        "Scenery": "MK Studios v2",
-        "Creator": "Luca, Tom",
-        "Version": "1.2.0",
+        "Folder": "YBBN (ORBX)",
+        "ProfileICAO": "YBBN",
+        "Scenery": "ORBX",
+        "Creator": "tcastest",
+        "Version": "1.3.0",
         "FileNames": [
-            "LPPT-MKStudios.ini",
-            "LPPT-MKStudios-NOOL.ini",
-            "LPPT-MKStudios.py"
+            "ybbn-AusFS.ini",
+            "ybbn-AusFS.py"
+        ]
+    },
+    {
+        "Folder": "LIRF (MK Studios)",
+        "ProfileICAO": "LIRF",
+        "Scenery": "MKStudios",
+        "Creator": "SimonTricks",
+        "Version": "1.2.2",
+        "FileNames": [
+            "lirf-MkStudio-GSXVDGS.ini",
+            "lirf-MkStudio-NoolVDGS.ini",
+            "lirf-MkStudio.py"
         ]
     },
     {
@@ -474,47 +360,60 @@
         ]
     },
     {
-        "Folder": "EGNX (Pyreegue)",
-        "ProfileICAO": "EGNX",
-        "Scenery": "Pyreegue",
-        "Creator": "Hinshee",
-        "Version": "1.6",
+        "Folder": "LEPA (EuroScene)",
+        "ProfileICAO": "LEPA",
+        "Scenery": "EuroScene",
+        "Creator": "Vee2",
+        "Version": "1.5",
         "FileNames": [
-            "egnx-pyreegue-hinshee.ini",
-            "egnx-pyreegue-hinshee.py"
+            "lepa-euroscene-vee2.ini",
+            "lepa-euroscene-vee2.py"
         ]
     },
     {
-        "Folder": "EFET (Tatu)",
-        "ProfileICAO": "EFET",
-        "Scenery": "Tatu",
-        "Creator": "Hinshee",
-        "Version": "1.0",
-        "FileNames": [
-            "efet-tatu-hinshee.ini"
-        ]
-    },
-    {
-        "Folder": "LKPR (Tailstrike Designs)",
-        "ProfileICAO": "LKPR",
-        "Scenery": "Tailstrike Designs",
-        "Creator": "DarrianCZE",
-        "Version": "13.2",
-        "FileNames": [
-            "lkpr-darriancze-gsxvdgs.ini",
-            "lkpr-darriancze-asvdgs.ini",
-            "lkpr-darriancze.py"
-        ]
-    },
-    {
-        "Folder": "LKTB (Aerosoft)",
-        "ProfileICAO": "LKTB",
+        "Folder": "ENGM (Aerosoft)",
+        "ProfileICAO": "ENGM",
         "Scenery": "Aerosoft",
-        "Creator": "DarrianCZE",
-        "Version": "3.2",
+        "Creator": "JBX Profiles",
+        "Version": "1.5.1",
         "FileNames": [
-            "lktb-darriancze.ini",
-            "lktb-darriancze.py"
+            "engm-aerosoft.py",
+            "engm-aerosoft-asvdgs.ini",
+            "engm-aerosoft-gsxvdgs.ini"
+        ]
+    },
+    {
+        "Folder": "EPWA (Drzewiecki Design)",
+        "ProfileICAO": "EPWA",
+        "Scenery": "Drzewiecki Design",
+        "Creator": "JBX Profiles",
+        "Version": "1.2.1",
+        "FileNames": [
+            "epwa-drzewiecki-winter.py",
+            "epwa-drzewiecki.py",
+            "epwa-drzewiecki-winter.ini",
+            "epwa-drzewiecki.ini"
+        ]
+    },
+    {
+        "Folder": "LKPD (Flying Partners Slovakia)",
+        "ProfileICAO": "LKPD",
+        "Scenery": "Flying Partners Slovakia",
+        "Creator": "DarrianCZE",
+        "Version": "1.3",
+        "FileNames": [
+            "lkpd-darriancze.py",
+            "lkpd-darriancze.ini"
+        ]
+    },
+    {
+        "Folder": "LEBB (BMW)",
+        "ProfileICAO": "LEBB",
+        "Scenery": "Beautiful Model World",
+        "Creator": "CopperNu",
+        "Version": "5.1",
+        "FileNames": [
+            "LEBB-BMW-coppernu.ini"
         ]
     },
     {
@@ -526,6 +425,119 @@
         "FileNames": [
             "lkkv-darriancze.py",
             "lkkv-darriancze.ini"
+        ]
+    },
+    {
+        "Folder": "EFOU (M'M Simulations)",
+        "ProfileICAO": "EFOU",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": "1",
+        "FileNames": [
+            "efou-mmsimulations-hinshee.ini",
+            "efou-mmsimulations-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "LGSK (Orbx)",
+        "ProfileICAO": "LGSK",
+        "Scenery": "Orbx",
+        "Creator": "Hinshee",
+        "Version": "1",
+        "FileNames": [
+            "lgsk-orbx-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "KJAC (DreamFlight)",
+        "ProfileICAO": "KJAC",
+        "Scenery": "Dreamflight",
+        "Creator": "Hinshee",
+        "Version": "1.1",
+        "FileNames": [
+            "kjac-dreamflight-hinshee.ini",
+            "kjac-dreamflight-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "LIPK (AmSim)",
+        "ProfileICAO": "LIPK",
+        "Scenery": "AmSim",
+        "Creator": "Hinshee",
+        "Version": "1",
+        "FileNames": [
+            "lipk-amsim-hinshee.ini"
+        ]
+    },
+    {
+        "Folder": "EGPH (Pyreegue v2)",
+        "ProfileICAO": "EGPH",
+        "Scenery": "Pyreegue (v2)",
+        "Creator": "Hinshee",
+        "Version": "1.1",
+        "FileNames": [
+            "egph-pyreegue-hinshee.ini",
+            "egph-pyreegue-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "BKPR (M'M Simulations)",
+        "ProfileICAO": "BKPR",
+        "Scenery": "M'M Simulations",
+        "Creator": "Hinshee",
+        "Version": "1.1",
+        "FileNames": [
+            "bkpr-yeurxn.ini"
+        ]
+    },
+    {
+        "Folder": "EDDF (Aerosoft)",
+        "ProfileICAO": "EDDF",
+        "Scenery": "Aerosoft",
+        "Creator": "Jk23",
+        "Version": "1.5",
+        "FileNames": [
+            "eddf-aerosoft-ASVDGS-full-jk23.ini",
+            "eddf-aerosoft-ASVDGS-lite-jk23.ini",
+            "eddf-aerosoft-full-jk23.ini",
+            "eddf-aerosoft-lite-jk23.ini",
+            "eddf-aerosoft.py"
+        ]
+    },
+    {
+        "Folder": "EPKK (Papa Delta Studio)",
+        "ProfileICAO": "EPKK",
+        "Scenery": "Papa Delta Studio",
+        "Creator": "Papa Delta Studio",
+        "Version": "0.9",
+        "FileNames": [
+            "epkk-papadelta.ini",
+            "epkk-papadelta.py"
+        ]
+    },
+    {
+        "Folder": "EGLC (UK2000)",
+        "ProfileICAO": "EGLC",
+        "Scenery": "UK2000",
+        "Creator": "Vee2",
+        "Version": "1.0",
+        "FileNames": [
+            "eglc-uk2000-vee2-146.ini",
+            "eglc-uk2000-vee2.py",
+            "eglc-uk2000-vee2-146.py",
+            "eglc-uk2000-vee2.ini"
+        ]
+    },
+    {
+        "Folder": "EGBB (Pyreegue)",
+        "ProfileICAO": "EGBB",
+        "Scenery": "Pyreegue",
+        "Creator": "Hinshee",
+        "Version": "1.1",
+        "FileNames": [
+            "egbb-pyreegue-hinshee-2020.ini",
+            "egbb-pyreegue-hinshee-2024.ini",
+            "egbb-pyreegue-hinshee.py"
         ]
     }
 ]

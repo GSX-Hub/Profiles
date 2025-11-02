@@ -2,7 +2,7 @@
     "ProfileICAO": "EDDB",
     "Scenery": "Aerosoft/Limesim V3",
     "Creator": "CuzImTom",
-    "Version": "1.1.1",
+    "Version": 1.2,
     "Configurations": [
         {
             "ConfigName": "GSX",
@@ -28,6 +28,13 @@
         }
     ],
     "Changelog": [
+        
+        {
+            "Version": 1.2,
+            "ChangesURL": "",
+		"ChangesMd": "- Added Passenger Boarding Waypoints, including custom Jetway Root Floor Heights\n- Adjusted most Pushback Truck Positions and changed some Vehicle Placements\n- Added Operators: Gate Gourmet and Newrest (Catering), Swissport (Handling)",
+			"Date": "2025-08-10"
+        },
         {
             "Version": "1.1.1",
             "ChangesURL": "",
