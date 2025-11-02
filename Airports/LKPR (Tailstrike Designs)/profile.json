@@ -16,6 +16,17 @@
             ]
         },
         {
+            "ConfigName": "GSX-VDGS-LKPR-Live",
+            "Files": [
+                {
+                    "FileName": "lkpr-darriancze-gsxvdgs-lkprlive.ini"
+                },
+                {
+                    "FileName": "lkpr-darriancze.py"
+                }
+            ]
+        },
+        {
             "ConfigName": "AS-VDGS",
             "Files": [
                 {
@@ -28,6 +39,11 @@
         }
     ],
     "Changelog": [
+        {
+            "Version": 13.3,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/93",
+			"Date": "2025-05-20"
+        },
         {
             "Version": 13.2,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/93",
