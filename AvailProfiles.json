@@ -172,7 +172,7 @@
         "ProfileICAO": "YMML",
         "Scenery": "ORBX ",
         "Creator": "tcastest",
-        "Version": "1.1",
+        "Version": "1.4",
         "FileNames": [
             "ymml-AusFS.ini",
             "ymml-AusFS.py"
