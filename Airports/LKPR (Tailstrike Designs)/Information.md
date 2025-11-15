@@ -7,6 +7,8 @@ Rename the file "Community\Tailstrike Prague\tailstrikedesigns-airport-lkpr-prag
 **LKPR Live Variant**
 LKPR Live edition of the GSX config is a special version for Fiideell's modification of Tailstrike Prague called LKPR Live. It will not work properly without it - [LKPR Live - Tailstrike edition for Microsoft Flight Simulator | MSFS](https://flightsim.to/file/50324/lkpr-live-tailstrike-edition)
 It also still uses GSX VDGS, so the same modification in the note above is still required
+**LKPR Live Update Notice**
+If you are updating from version 13.3. or lesser, LKPR Live Version now has it's own .py file (lkpr-darriancze-lkprlive-py). In order for it to work properly, you need to delete the old one (lkpr-darriancze.py)
 
 
 ## Features:
