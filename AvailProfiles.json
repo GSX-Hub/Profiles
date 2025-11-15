@@ -250,11 +250,12 @@
         "ProfileICAO": "LKPR",
         "Scenery": "Tailstrike Designs",
         "Creator": "DarrianCZE",
-        "Version": "13.3",
+        "Version": "13.4",
         "FileNames": [
             "lkpr-darriancze-asvdgs.ini",
             "lkpr-darriancze-gsxvdgs-lkprlive.ini",
             "lkpr-darriancze-gsxvdgs.ini",
+            "lkpr-darriancze-lkprlive.py",
             "lkpr-darriancze.py"
         ]
     },
