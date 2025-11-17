@@ -2,7 +2,7 @@
     "ProfileICAO": "LKPR",
     "Scenery": "Tailstrike Designs",
     "Creator": "DarrianCZE",
-    "Version": 13.3,
+    "Version": 13.4,
     "Configurations": [
         {
             "ConfigName": "GSX-VDGS",
@@ -22,7 +22,7 @@
                     "FileName": "lkpr-darriancze-gsxvdgs-lkprlive.ini"
                 },
                 {
-                    "FileName": "lkpr-darriancze.py"
+                    "FileName": "lkpr-darriancze-lkprlive.py"
                 }
             ]
         },
@@ -39,6 +39,11 @@
         }
     ],
     "Changelog": [
+        {
+            "Version": 13.4,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/114",
+			"Date": "2025-11-15"
+        },
         {
             "Version": 13.3,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/112",

@@ -1409,11 +1409,9 @@ def Gate72_74_Offset(aircraftData):
         return Distance.fromMeters(TableIcao.get(aircraftData.icaoTypeDesignator,TableGroup.get(aircraftData.aircraftGroup,0)))
     except:
         return Distance()
-
 @AlternativeStopPositions
 def Gate75_Offset(aircraftData):
     TableIcao = {
-        "B735": 0,
         "AT43": 0,
         "AT45": 0,
         "AT46": 0,
@@ -1421,42 +1419,48 @@ def Gate75_Offset(aircraftData):
         "AT73": 0,
         "AT75": 0,
         "AT76": 0,
-        "E170": 0,
-        "E175": 0,
-        "CRJ2": 0,
+        "A318": 0,
+        "B461": 0,
         "DH8A": 0,
         "DH8C": 0,
-        "B461": 0,
-        "B462": 0,
-        "B463": 0,
         "F28": 0,
         "F50": 0,
-        "F70": 0,
         "YK40": 0,
         "SF34": 0,
-        "SB20": 0,
-        "E120": 0,
-        "E135": 0,
-        "E145": 0,
-        "B734": 5.5,
-        "F100": 5.5,
-        "E190": 5.5,
-        "E195": 5.5,
-        "B733": 5.5,
-        "T134": 5.5,
-        "CRJ7": 5.5,
-        "CRJ9": 5.5,
-        "DH8D": 5.5,
-        "SU95": 5.5,
+        "A320": 4.3,
+        "B734": 4.3,
+        "A319": 4.3,
+        "A19N": 4.3,
+        "A20N": 4.3,
+        "B733": 4.3,
+        "B735": 4.3,
+        "B736": 4.3,
+        "B737": 4.3,
+        "F70": 4.3,
+        "F100": 4.3,
+        "E120": 4.3,
+        "E135": 4.3,
+        "E145": 4.3,
+        "E170": 4.3,
+        "E175": 4.3,
+        "E190": 4.3,
+        "E275": 4.3,
+        "E290": 4.3,
+        "B462": 4.3,
+        "B463": 4.3,
+        "SB20": 4.3,
+        "CRJ2": 4.3,
+        "CRJ7": 4.3,
+        "DH8D": 4.3,
+        "BCS1": 4.3,
+        "SU95": 4.3,
+        "B738": 6.7,
+        "B38M": 6.7,
     }
-
     TableGroup = {
-        "ARC-C" : 0,
-        "ARC-D" : 0,
-        "ARC-E" : 0,
-        "ARC-F" : 6.2,
+        "ARC-C" : 4.3,
+        "ARC-D" : 6.7,
     }
-
     try:
         return Distance.fromMeters(TableIcao.get(aircraftData.icaoTypeDesignator,TableGroup.get(aircraftData.aircraftGroup,0)))
     except:
