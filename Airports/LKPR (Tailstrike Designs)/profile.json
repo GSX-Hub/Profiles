@@ -2,10 +2,10 @@
     "ProfileICAO": "LKPR",
     "Scenery": "Tailstrike Designs",
     "Creator": "DarrianCZE",
-    "Version": 13.4,
+    "Version": 13.5,
     "Configurations": [
         {
-            "ConfigName": "GSX-VDGS",
+            "ConfigName": "GSX-VDGS Normal Operations",
             "Files": [
                 {
                     "FileName": "lkpr-darriancze-gsxvdgs.ini"
@@ -16,18 +16,18 @@
             ]
         },
         {
-            "ConfigName": "GSX-VDGS - LKPR Live Edition",
+            "ConfigName": "GSX-VDGS Winter Operations",
             "Files": [
                 {
-                    "FileName": "lkpr-darriancze-gsxvdgs-lkprlive.ini"
+                    "FileName": "lkpr-darriancze-gsxvdgs-winter.ini"
                 },
                 {
-                    "FileName": "lkpr-darriancze-lkprlive.py"
+                    "FileName": "lkpr-darriancze-winter.py"
                 }
             ]
         },
         {
-            "ConfigName": "AS-VDGS",
+            "ConfigName": "AS-VDGS Normal Operations",
             "Files": [
                 {
                     "FileName": "lkpr-darriancze-asvdgs.ini"
@@ -36,9 +36,25 @@
                     "FileName": "lkpr-darriancze.py"
                 }
             ]
+        },
+        {
+            "ConfigName": "AS-VDGS Winter Operations",
+            "Files": [
+                {
+                    "FileName": "lkpr-darriancze-asvdgs-winter.ini"
+                },
+                {
+                    "FileName": "lkpr-darriancze-winter.py"
+                }
+            ]
         }
     ],
     "Changelog": [
+        {
+            "Version": 13.5,
+            "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/115",
+			"Date": "2026-01-12"
+        },
         {
             "Version": 13.4,
             "ChangesURL": "https://github.com/GSX-Hub/Profiles/pull/114",

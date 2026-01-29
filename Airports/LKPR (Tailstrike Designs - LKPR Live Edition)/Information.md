@@ -1,11 +1,13 @@
 <!--- Licensed Under: CC BY-NC 4.0 --->
 Available from these retailers: [Aerosoft.com](https://www.aerosoft.com/en/shop/flight/microsoft-flight-simulator/msfs-2020/msfs-sceneries/msfs-europe/3408/tailstrike-designs-airport-prague?number=AS15349)
 
-**IMPORANT**
-**If you are choosing the GSX VDGS version, you need to disable the AS VDGS in the scenery, because it will not look good if you will not.**  
-Rename the file "Community\Tailstrike Prague\tailstrikedesigns-airport-lkpr-prague\scenery\LKPR_VDGS\scenery\LKPR_aerosoft_VDGS_modellib.BGL" to "LKPR_aerosoft_VDGS_modellib.BGL.off"
+LKPR Live edition of the GSX config is a special version for Fiideell's modification of Tailstrike Prague called LKPR Live. It will not work properly without it - [LKPR Live - Tailstrike edition for Microsoft Flight Simulator | MSFS](https://flightsim.to/file/50324/lkpr-live-tailstrike-edition)
 
-The config contains two versions. Normal Operations and Winter Operations. In Winter Operations, stands where the remote de-icing pads are located are disabled, so the de-icing pads are working correctly. This is a GSX limitation
+The config contains two versions. Normal Operations and Winter Operations. In Winter Operations, stands where the remote de-icing pads are located are disabled, so the de-icing pads are working correctly. This is a GSX limitation.
+
+**IMPORANT**
+**You need to disable the AS VDGS in the scenery, because it will not look good if you will not.**  
+Rename the file "Community\Tailstrike Prague\tailstrikedesigns-airport-lkpr-prague\scenery\LKPR_VDGS\scenery\LKPR_aerosoft_VDGS_modellib.BGL" to "LKPR_aerosoft_VDGS_modellib.BGL.off"
 
 ## Features:
 - Custom vehicle placement on all stands

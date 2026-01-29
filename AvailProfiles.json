@@ -250,12 +250,15 @@
         "ProfileICAO": "LKPR",
         "Scenery": "Tailstrike Designs",
         "Creator": "DarrianCZE",
-        "Version": "13.4",
+        "Version": "13.5",
         "FileNames": [
+            "lkpr-darriancze-asvdgs-winter.ini",
             "lkpr-darriancze-asvdgs.ini",
             "lkpr-darriancze-gsxvdgs-lkprlive.ini",
+            "lkpr-darriancze-gsxvdgs-winter.ini",
             "lkpr-darriancze-gsxvdgs.ini",
             "lkpr-darriancze-lkprlive.py",
+            "lkpr-darriancze-winter.py",
             "lkpr-darriancze.py"
         ]
     },
@@ -540,6 +543,19 @@
             "egbb-pyreegue-hinshee-2020.ini",
             "egbb-pyreegue-hinshee-2024.ini",
             "egbb-pyreegue-hinshee.py"
+        ]
+    },
+    {
+        "Folder": "LKPR (Tailstrike Designs - LKPR Live Edition)",
+        "ProfileICAO": "LKPR",
+        "Scenery": "Tailstrike Designs",
+        "Creator": "DarrianCZE",
+        "Version": "1.2",
+        "FileNames": [
+            "lkpr-24-darriancze-gsxvdgs-lkprlive-winter.ini",
+            "lkpr-24-darriancze-gsxvdgs-lkprlive.ini",
+            "lkpr-24-darriancze-lkprlive-winter.py",
+            "lkpr-24-darriancze-lkprlive.py"
         ]
     }
 ]
